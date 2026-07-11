@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12.x-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.17.0-FF6F00)
-![Colab](https://img.shields.io/badge/Run%20in-Colab-yellow)
+[![Colab](https://img.shields.io/badge/Run%20in-Colab-yellow)](https://colab.research.google.com/drive/1Sy7QuzHGcGj9Xecosq6xDTsN5SnhibCZ?usp=sharing)
 
 A deep learning pipeline using EfficientNetV2B2 (transfer learning + fine-tuning) to classify food images from a 10-class subset of Food-101.
 

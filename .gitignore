@@ -1,3 +1,5 @@
 /saved_model/
 /tfjs_model/
 /tflite/
+
+*.zip
